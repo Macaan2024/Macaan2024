@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="profile" width="400" src="a.gif">
+  <img alt="profile" width="300" src="a.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Casan M. Macaan</h1>
 <h3 align="center">Newbee</h3>
